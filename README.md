@@ -1,7 +1,7 @@
 ## Olá, me chamo Layanne Mary! 👋 
 #### Seja bem-vindo(a) ao meu GitHub!
 
-Sou engenheira civil em trasição de carreira e, para este objetivo, estou graduando Análise e Desenvolvimento de Sistemas.
+Sou engenheira civil em transição de carreira e, em busca deste objetivo, estou graduando Análise e Desenvolvimento de Sistemas.
 Participante do Programa Desenvolve 2024 do Grupo Boticário, com formação na trilha de Ciência de Dados.
 Paraibana com muito orgulho 🌵❤️
 
