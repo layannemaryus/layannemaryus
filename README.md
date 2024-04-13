@@ -1,12 +1,9 @@
-### Olá, me chamo Layanne Mary! 👋
+## Olá, me chamo Layanne Mary! 👋 
 #### Seja bem-vindo(a) ao meu GitHub!
 
-Sou engenheira civil em trasição de carreira, para este objetivo estou graduando Análise e Desenvolvimento de Sistemas.
-Atualmente participo do Programa Desenvolve 2024 do Grupo Boticário, com formação na trilha de Ciência de Dados.
-Tenho conhecimentos em front end (HTML, CSS, JavaScript), testes manuais de softwares (modelagens de casos, cenários de testes, identificação de bugs), Python, Ciência de Dados (modelagem de banco de dados relacional, modelo lógico, modelo físico).
+Sou engenheira civil em trasição de carreira e, para este objetivo, estou graduando Análise e Desenvolvimento de Sistemas.
+Participante do Programa Desenvolve 2024 do Grupo Boticário, com formação na trilha de Ciência de Dados.
 Paraibana com muito orgulho 🌵❤️
-
-
 
 - 📊 Atualmente estou aprendendo sobre Ciência de Dados.
 - 👩‍💻 Estou procurando colaborar em projetos que agreguem em desenvolvimento pessoal e profissional.
@@ -14,32 +11,9 @@ Paraibana com muito orgulho 🌵❤️
 
 ## Tecnologia e Ferramentas
 
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-plain.svg" />        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />     
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original-wordmark.svg" />
+<img loading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" width="40"/> <img loading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40"/> <img loading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="40"/> <img loading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="40"/> <img loading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40"/> <img loading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width = "40"/> <img loading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width = "40"/>
   
- 
-## Estou aprendendo:
+ ## Estou aprendendo:
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain-wordmark.svg" />
+<img loading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width = "40"/> <img loading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width = "40"/> <img loading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width = "40"/> <img loading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width = "40"/> <img loading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40"/> <img loading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain-wordmark.svg" width = "40"/>
 
-
-
-
-
-
-          
-
-          
-
-          
